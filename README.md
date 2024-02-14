@@ -9,3 +9,4 @@ The steps involved in K-Means Clustering are as follows:
 6) Match the new clusters with previous clusters. If matched code breaks, if not Repeat Steps 3 to 5 until the clusters do not change.
 
 In Python, there is a library sklearn.cluster from where you can directly import K_means algo and use it in a single line. But in my code, I have created the algorithm without using inbuilt Python Machine Learning library and written all the lines on my own
+![dashboard](https://github.com/Nitin-Kaul-27/Customer-Segmentation/assets/108913229/975b3190-3dfd-4458-8be9-4fd3675bbe37)
